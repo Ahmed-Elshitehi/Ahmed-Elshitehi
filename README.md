@@ -12,6 +12,7 @@
     <br>
     💼 Competitive Programmer --> <a href="https://codeforces.com/profile/Ahmed-Ma3rof">Codeforces</a> 
   </p>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elshitehi&layout=compact)](https://github.com/yushi1007)
-
+  <hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elshitehi&layout=compact)](https://github.com/yushi1007)
+<br>
+![](https://komarev.com/ghpvc/?username=Ahmed-Elshitehi&style=flat-square)
