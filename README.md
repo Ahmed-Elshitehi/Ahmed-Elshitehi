@@ -11,6 +11,7 @@
    💫 About Me:
     <br>
     💼 Competitive Programmer --> <a href="https://codeforces.com/profile/Ahmed-Ma3rof">Codeforces</a> 
+                                   <a href="https://leetcode.com/ma3rof/">LeetCode</a>
   </p>
   <hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elshitehi&layout=compact)](https://github.com/Ahmed-Elshitehi)
